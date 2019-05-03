@@ -1,4 +1,4 @@
-package HW_OOP.candies;
+package homeworkoop.candies;
 
 public class FruitCandy extends BaseCandy {
     private String fruit;

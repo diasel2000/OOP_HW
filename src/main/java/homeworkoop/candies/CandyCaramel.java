@@ -1,4 +1,4 @@
-package HW_OOP.candies;
+package homeworkoop.candies;
 
 public class CandyCaramel extends BaseCandy {
     private double count;
@@ -7,8 +7,7 @@ public class CandyCaramel extends BaseCandy {
         super ( weight, shugar, price, name );
     }
 
-    public double getCount(){
-
+    public double getCount() {
         return count;
     }
 }

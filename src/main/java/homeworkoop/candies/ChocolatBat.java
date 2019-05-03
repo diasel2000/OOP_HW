@@ -1,4 +1,4 @@
-package HW_OOP.candies;
+package homeworkoop.candies;
 
 public class ChocolatBat extends BaseCandy {
     private int size;
@@ -7,7 +7,7 @@ public class ChocolatBat extends BaseCandy {
         super ( weight, shugar, price, name );
     }
 
-    public float getSize(){
+    public float getSize() {
         return size;
     }
 }
